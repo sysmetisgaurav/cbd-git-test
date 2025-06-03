@@ -9,7 +9,7 @@ export {default as priority} from "./svg/priority.svg";
 export {default as visa} from "./images/visa.png";
 export {default as rupay} from "./images/rupay.png";
 export {default as pay} from "./images/pay.png";
-export {default as mastercard} from "./images/mastercard.png";
+export {default as mastercard} from "./images/masterCard.png";
 export {default as menu} from "./svg/menu.svg";
 export {default as user} from "./images/user.png";
 export{ default as users} from "./svg/users.svg";
