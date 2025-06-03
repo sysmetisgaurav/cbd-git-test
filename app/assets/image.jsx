@@ -15,7 +15,7 @@ export {default as user} from "./images/user.png";
 export{ default as users} from "./svg/users.svg";
 export {default as dashboard} from "./svg/dash.svg";
 export {default as crown} from "./svg/crown.svg";
-export{ default as exit} from "./svg/exit.svg";
+export{ default as exit} from "./svg/Exit.svg";
 export { default as userdash} from"./images/userdash.png";
 export { default as palns} from"./svg/plans.svg";
 export{default as client}from"./svg/client.svg";
