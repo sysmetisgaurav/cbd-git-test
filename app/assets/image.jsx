@@ -4,7 +4,7 @@ export { default as Microsoft } from "./svg/microSoft.svg";
 export {default as sliders}from "./images/sliders.jpg";
 export {default as bugicon} from "./svg/bugicon.svg";
 export {default as analysis} from "./svg/analysis.svg";
-export {default as security} from "./svg/Security.svg";
+export {default as security} from "./svg/security.svg";
 export {default as priority} from "./svg/priority.svg";
 export {default as visa} from "./images/visa.png";
 export {default as rupay} from "./images/rupay.png";
