@@ -1,0 +1,23 @@
+export { default as Logo } from "./images/logo.png";
+export { default as Google } from "./svg/google.svg";
+export { default as Microsoft } from "./svg/microSoft.svg";
+export {default as sliders}from "./images/sliders.jpg";
+export {default as bugicon} from "./svg/bugicon.svg";
+export {default as analysis} from "./svg/analysis.svg";
+export {default as security} from "./svg/Security.svg";
+export {default as priority} from "./svg/priority.svg";
+export {default as visa} from "./images/visa.png";
+export {default as rupay} from "./images/rupay.png";
+export {default as pay} from "./images/pay.png";
+export {default as mastercard} from "./images/mastercard.png";
+export {default as menu} from "./svg/menu.svg";
+export {default as user} from "./images/user.png";
+export{ default as users} from "./svg/users.svg";
+export {default as dashboard} from "./svg/dash.svg";
+export {default as crown} from "./svg/crown.svg";
+export{ default as exit} from "./svg/exit.svg";
+export { default as userdash} from"./images/userdash.png";
+export { default as palns} from"./svg/plans.svg";
+export{default as client}from"./svg/client.svg";
+export{ default as dashClients} from"./svg/dashClients.svg";
+export{default as dashUsers}from "./svg/dashUsers.svg"

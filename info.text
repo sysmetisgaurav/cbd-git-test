@@ -1,0 +1,53 @@
+The above issue is fixed now.
+Also, the admin user credentials are given below.
+It is fixed otp and no email will be sent out.
+{
+  "email": "admin@cbd.com",
+  "otp": "102938"
+}
+
+
+
+
+Question : From where should I get the Plan list.
+Answer : It will be hardcoded in UI
+
+
+Question : if a user session exist he will never come on public landing page. (irrespective of subscribed plan)
+
+Admin
+
+Edit User >> navigate to edit feature screen
+
+
+Admin plan page is view only page
+
+
+
+
+browser 1: login: session exist. ()
+
+
+browser 2 : Login: session exisit (purhcase done)
+
+now if user again goes 
+
+
+
+{
+    "success": true,
+    "message": "Operation completed successfully",
+    "data": {
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6IjEiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9lbWFpbGFkZHJlc3MiOiJhZG1pbkBjYmQuY29tIiwiaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvd3MvMjAwNS8wNS9pZGVudGl0eS9jbGFpbXMvbmFtZSI6IkFkbWluIENCRCIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwOC8wNi9pZGVudGl0eS9jbGFpbXMvcm9sZSI6IkFkbWluIiwiZXhwIjoxNzQ4MDc1MTc0LCJpc3MiOiJodHRwczovL2NiZC1kZXYtYXBpLWF4YWRhMmI0aHBid2hzaDkuY2VudHJhbGluZGlhLTAxLmF6dXJld2Vic2l0ZXMubmV0IiwiYXVkIjoiaHR0cHM6Ly9jYmQtZGV2LWFwaS1heGFkYTJiNGhwYndoc2g5LmNlbnRyYWxpbmRpYS0wMS5henVyZXdlYnNpdGVzLm5ldCJ9.1BJpdzYsCyHA8hCaDvHQWPuk2f9SNy_ad5ybQYmvIA0",
+        "refreshToken": "IqDI3gzFNBQGqAtb5O1NnuNgDS+LTx8mdF4Fzb15PLm1MYCneNOWzB7x4pGxOsfMwWqeln+ltGPjnyLQeTjTsw==",
+        "email": "admin@cbd.com",
+        "firstName": "Admin",
+        "lastName": "CBD",
+        "roles": [
+            "Admin"
+        ]
+    },
+    "errors": null,
+    "statusCode": 200,
+    "timestamp": "2025-05-24T07:26:14.1885583Z"
+}
